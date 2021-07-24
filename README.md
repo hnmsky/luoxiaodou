@@ -25,4 +25,7 @@ val topic = "luoxiaodou_1"
 
 ## 控制App
 
-手机端控制软件Luoxiaodou_ctrl
+手机端控制软件[Luoxiaodou_ctrl](https://github.com/hnmsky/LuoxiaodouCtrl)
+
+
+
